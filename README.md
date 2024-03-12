@@ -9,7 +9,7 @@ I have been learning to program for 3 years at university starting from html css
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [paramet.c@rmutsvmail.com](mailto:paramet.c@rmutsvmail.com)
 * 🧠  I'm learning next.js , MongoDB, Laravel, Java
-* ⚡  I love problem solving and beautiful designs.
+* ⚡  I love problem solving and UX/UI designs.
 
 <a href="https://www.github.com/TAN-PARAMET" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TAN-PARAMET?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
