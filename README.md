@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front\_End\_Developer
 ---------------------
 
-I have been learning to program for 3 years at university starting from html css and javascript writing practice which extends to react. I am studying backend to become a full stack developer in the future.
+I started by studying graphic design. Then continued to study UX/UI through figma and studied system development with html CSS Javascript PHP C Python Node.js My SQL for 4 years at university. And had the opportunity to intern with Seamless co., ltd., where we got to know working as a team and in the organization. and system analysis Currently studying to be Full stack developer Software Engineer System analyst and DevOps engineer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [paramet.c@rmutsvmail.com](mailto:paramet.c@rmutsvmail.com)
