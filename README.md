@@ -8,8 +8,8 @@ I started by studying graphic design. Then continued to study UX/UI through figm
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [paramet.c@rmutsvmail.com](mailto:paramet.c@rmutsvmail.com)
-* 🧠  I'm learning next.js , MongoDB, Laravel, Java
-* ⚡  I love problem solving and UX/UI designs.
+* 🧠  I'm learning next.js, react native, Electron.js, Kubernetes, Docker, Nginx
+* ⚡  I love Problem-solving System analyst and UX/UI designs.
 
 
 ### Socials
