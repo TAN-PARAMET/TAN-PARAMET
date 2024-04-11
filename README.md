@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paramet Chuchumchun
 ===========================================================================================================================================
 
-Front\_End\_Developer
+Full\_Stack\_Developer
 ---------------------
 
 I started by studying graphic design. Then continued to study UX/UI through figma and studied system development with html CSS Javascript PHP C Python Node.js My SQL for 4 years at university. And had the opportunity to intern with Seamless co., ltd., where we got to know working as a team and in the organization. and system analysis Currently studying to be Full stack developer Software Engineer System analyst and DevOps engineer
