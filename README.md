@@ -7,7 +7,7 @@ Full\_Stack\_Developer
 I started by studying graphic design. Then continued to study UX/UI through figma and studied system development with html CSS Javascript PHP C Python Node.js My SQL for 4 years at university. And had the opportunity to intern with Seamless co., ltd., where we got to know working as a team and in the organization. and system analysis Currently studying to be Full stack developer Software Engineer System analyst and DevOps engineer
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [paramet.c@rmutsvmail.com](mailto:paramet.c@rmutsvmail.com)
+* ✉️  You can contact me at [paramet.c101@gmail.com](mailto:paramet.c101@gmail.com)
 * 🧠  I'm learning next.js, react native, Electron.js, Kubernetes, Docker, Nginx
 * ⚡  I love Problem-solving System analyst and UX/UI designs.
 
